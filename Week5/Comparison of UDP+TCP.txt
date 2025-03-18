@@ -1,0 +1,3 @@
+TCP: Duration:  0.000779 Server response: ACK: g
+UDP: Duration:  0.003707 Server response: ACK: g
+
